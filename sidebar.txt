@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ibl:home|Door43 (ibl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ibl|d43-ibl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ibl/archive/master.zip|d43-ibl.zip]]
+
+**Recent Changes**
+{{changes>ns = ibl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ibl|Ethnologue data]]
+
